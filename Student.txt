@@ -1,0 +1,2 @@
+sufiyan,20,706,cse,3,e
+rahul,23,707,ece,2,a
